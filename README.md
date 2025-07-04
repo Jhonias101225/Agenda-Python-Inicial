@@ -65,15 +65,4 @@ python main.py
 
 ---
 
-## ✍️ Assinatura
-
-***Jhonatan Constantino*** 
-Engenheiro Civil • Desenvolvedor Python em formação • Empreendedor
-
-> 💡 *"Construindo soluções com lógica, propósito e paixão por aprender."*  
-> 🌎 São José dos Pinhais - PR | 🇧🇷 Brasil  
-> 📧 jcos.constan@gmail.com  
-> 💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-constantino-de-oliveira-silva-1b182828/) • [GitHub](https://github.com/Jhonias101225)
-
----
 
