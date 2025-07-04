@@ -63,4 +63,18 @@ pip install -r requirements.txt
 # 5. Execute a aplicação
 python main.py
 
+---
+
+## ✍️ Assinatura
+
+**Jhonatan Constantino**  
+Engenheiro Civil • Desenvolvedor Python em formação • Empreendedor
+
+> 💡 *"Construindo soluções com lógica, propósito e paixão por aprender."*  
+> 🌎 São José dos Pinhais - PR | 🇧🇷 Brasil  
+> 📧 jhonatan.seuemail@email.com *(edite com seu e-mail)*  
+> 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) • [GitHub](https://github.com/Jhonias101225)
+
+---
+
 
