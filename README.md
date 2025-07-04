@@ -67,14 +67,13 @@ python main.py
 
 ## ✍️ Assinatura
 
-**Jhonatan Constantino**  
+***Jhonatan Constantino*** 
 Engenheiro Civil • Desenvolvedor Python em formação • Empreendedor
 
 > 💡 *"Construindo soluções com lógica, propósito e paixão por aprender."*  
 > 🌎 São José dos Pinhais - PR | 🇧🇷 Brasil  
-> 📧 jhonatan.seuemail@email.com *(edite com seu e-mail)*  
-> 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) • [GitHub](https://github.com/Jhonias101225)
+> 📧 jcos.constan@gmail.com  
+> 💼 [LinkedIn](https://www.linkedin.com/in/jhonatan-constantino-de-oliveira-silva-1b182828/) • [GitHub](https://github.com/Jhonias101225)
 
 ---
-
 
